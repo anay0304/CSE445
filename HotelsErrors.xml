@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="Hotels.xsd">
+
+<Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Harbor">
+        <Number>11</Number>
+        <Street>E 7th St</Street>
+        <City>Tempe</City>
+        <State>AZ</State>
+        <Zip>85281</Zip>
+    </Address>
+</Hotel>
+
+<Hotel Rating="4.6">
+    <Name>Marriott Downtown</Name>
+    <Phone>602-333-0000</Phone>
+    <Address NearestAirport="Phoenix Airport">
+        <Number>100</Number>
+        <Street>N 1st St</Street>
+        <City>Phoenix</City>
+        <State>AZ</State>
+        <Zip>85004</Zip>
+    </Address>
+</Hotel>
+
+
+<Hotel Rating="4">
+    <Name>Hilton Phoenix Resort at the Peak</Name>
+    <Phone>833-621-3199</Phone>
+    <Address NearestAirport="Phoenix Airport">
+        <Number>7677</Number>
+        <Street>N 16th St</Street>
+        <City>Phoenix</City>
+        <State>AZ</State>
+        <Zip>85020</Zip>
+    </Address>
+</Hotel>
+
+<Hotel>
+    <Name>Best Western</Name>
+    <Phone>602-452-2020</Phone>
+    <Address NearestAirport="Phoenix Airport">
+        <Number>620</Number>
+        <Street>N 6th St</Street>
+        <City>Phoenix</City>
+        <State>AZ</State>
+        <Zip>85004</Zip>
+    </Address>
+</Hotel>
+
+<Hotel Rating="3.8">
+    <Name>Green Tree Inn</Name>
+    <Phone>602-688-5730</Phone>
+    <Address NearestAirport="Phoenix Airport">
+        <Number>4234</Number>
+        <Street>S 48th St</Street>
+        <City>Phoenix</City>
+        <State>AZ</State>
+        <Zip>85040</Zip>
+    </Address>
+</Hotel>
+
+<Hotel Rating="3.1">
+    <Name>La Quinta Inn</Name>
+    <Address NearestAirport="Phoenix Airport">
+        <Number>911</Number>
+        <Street>S 48th St</Street>
+        <City>Phoenix</City>
+        <State>AZ</State>
+        <Zip>85281</Zip>
+    </Address>
+</Hotel>
+
+<Hotel Rating="4.1">
+    <Name>Hilton Tapatio Cliffs</Name>
+    <Phone>602-866-7500</Phone>
+    <Address NearestAirport="Phoenix Airport">
+        <Number>11111</Number>
+        <Street>N 7th St</Street>
+        <City>Phoenix</City>
+        <State>AZ</State>
+        <Zip>85020</Zip>
+    </Address>
+</Hotel>
+
+<Hotel Rating="4.1">
+    <Name>DoubleTree by Hitlon</Name>
+    <Phone>480-947-5400</Phone>
+    <Address NearestAirport="Phoenix Airport">
+    <Number>5401</Number>
+    <Street>N Scottsdale Rd</Street>
+    <City>Phoenix</City>
+    <State>AZ</State>
+    <Zip>85250</Zip>
+
+</Hotel>
+
+<Hotel Rating="4.2">
+    <Name>Hampton Inn</Name>
+    <Phone>480-941-3441</Phone>
+    <Address NearestAirport="Phoenix Airport">
+        <Number>1415</Number>
+        <Street>N Scottsdale Rd</Street>
+        <City>Phoenix</City>
+        <State>AZ</State>
+        <Zip>85281</Zip>
+    </Address>
+</Hotel>
+
+<Hotel Rating="4.6">
+    <Name>Dury Inn</Name>
+    <Name>Dury Inn</Name>
+    <Phone>602-437-8400</Phone>
+    <Address NearestAirport="Phoenix Airport">
+        <Number>3333</Number>
+        <Street>E University Dr</Street>
+        <City>Phoenix</City>
+        <State>AZ</State>
+        <Zip>85034</Zip>
+    </Address>
+</Hotel>
+
+
+</Hotels>
