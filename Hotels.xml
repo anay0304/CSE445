@@ -89,7 +89,7 @@
     </Hotel>
 
     <Hotel Rating="4.1">
-        <Name>DoubleTree by Hitlon</Name>
+        <Name>DoubleTree by Hilton</Name>
         <Phone>480-947-5400</Phone>
         <Address NearestAirport="Phoenix Airport">
             <Number>5401</Number>
